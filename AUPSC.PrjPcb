@@ -156,15 +156,100 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BQGQUCIA
 
+[Document8]
+DocumentPath=Chineesium.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for AUPSC\AUPSC.nsx
+DocumentPath=./\AUPSC_gerber\NC Drill\AUPSC-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for AUPSC\AUPSC.sdf
+DocumentPath=./\AUPSC_gerber\NC Drill\AUPSC.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=./\AUPSC_gerber\Gerber\AUPSC.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=./\AUPSC_gerber\Gerber\AUPSC.G1
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=./\AUPSC_gerber\Gerber\AUPSC.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=./\AUPSC_gerber\Gerber\AUPSC.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=./\AUPSC_gerber\Gerber\AUPSC.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=./\AUPSC_gerber\Gerber\AUPSC.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=./\AUPSC_gerber\Gerber\AUPSC.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=./\AUPSC_gerber\Gerber\AUPSC.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=./\AUPSC_gerber\Gerber\AUPSC.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=./\AUPSC_gerber\Gerber\AUPSC.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=./\AUPSC_gerber\Gerber\AUPSC.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=./\AUPSC_gerber\Gerber\AUPSC.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=./\AUPSC_gerber\NC Drill\AUPSC.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for AUPSC\AUPSC.nsx
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=./\AUPSC_gerber\Gerber\AUPSC.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=./\AUPSC_gerber\Gerber\AUPSC.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for AUPSC\AUPSC.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument20]
 DocumentPath=Project Outputs for AUPSC\Design Rule Check - AUPSC.html
 DItemRevisionGUID=
 
@@ -1208,11 +1293,11 @@ MatchStrictly2=1
 PhysicalNamingFormat=$ComponentPrefix$GlobalIndex
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
-UniqueIDPath0=\CVLDTFOQ
-DocumentName0=TPS7A4701RGWR.SchDoc
+UniqueIDPath0=
+DocumentName0=AUPSC.SchDoc
 IsEnabled0=1
 SelectionScope0=All
-Order0=3
+Order0=1
 IndexEnabled0=0
 IndexStartValue0=1
 Suffix0=
@@ -1224,11 +1309,11 @@ Order1=2
 IndexEnabled1=0
 IndexStartValue1=1
 Suffix1=
-UniqueIDPath2=
-DocumentName2=AUPSC.SchDoc
+UniqueIDPath2=\CVLDTFOQ
+DocumentName2=TPS7A4701RGWR.SchDoc
 IsEnabled2=1
 SelectionScope2=All
-Order2=1
+Order2=3
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=

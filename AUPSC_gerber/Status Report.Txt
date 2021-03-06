@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [AUPSC.PcbDoc]
+   Generated File[AUPSC-Plated.TXT]
+   Generated File[AUPSC.LDP]
+   Generated File[AUPSC.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:18:43 On 14.12.2020
